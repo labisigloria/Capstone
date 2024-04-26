@@ -1,0 +1,51 @@
+.h6{
+    text-align: center;
+    font-size: 18px;
+    color: #018AD9;
+    margin-bottom: -20px;
+    margin-top: -90px;
+    
+    
+}
+.h4{
+    text-align: center;
+    font-size: 24px;
+    color: #333333;
+    
+}
+.reviewCards{
+    width: 550px;
+    height: 220px;
+    border-radius: 8px;
+    border: 1px solid #D9D9D94D;
+    background-color: #ffff;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+    margin-right:20px;
+    padding-left: 20px;
+    padding-top: 70px;
+    background-image: url('./images/Rectangle.png');
+    background-position: top right;
+    background-position: 90% 10%;
+    background-repeat: no-repeat;
+}
+.review{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    
+}
+.p{
+    color: #696363;
+}
+.pImg{
+    padding-top: 25px;
+    color: #0000004D;
+}
+.pImg img{
+    padding-right: 10px;
+    color: #0000004D;
+}
+.h{
+    font-size: 24px;
+    color: #333333;
+}

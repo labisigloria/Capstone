@@ -1,0 +1,41 @@
+.ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    
+
+
+}
+.a{
+    text-decoration: none;
+    color: black;
+    padding: 20px 15px;
+    text-align: center;
+    
+    
+}
+.login{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    
+}
+.aLogin{
+    margin: 40px 25px;
+    color: #018AD9;
+    text-decoration: none;
+    
+}
+.btn{
+    background-color: #018AD9;
+    color: #fff;
+    border-radius: 10px;
+    height: 40px;
+    width: 110px;
+    border: 1px solid #018AD9;
+    margin-top: -5px;
+
+}

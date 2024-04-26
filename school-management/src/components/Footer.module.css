@@ -1,0 +1,85 @@
+.newsLetter{
+    display: flex;
+    flex-direction: row;
+    margin: 60px;
+    justify-content: space-between;
+    margin-left: 80px;
+}
+.h4{
+    font-size: 24px;
+    line-height: 1rem;
+}
+.input{
+    width: 343px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #D0D5DD;
+    padding: 10px;
+    color: #D0D5DD;
+    margin-right: 5px;
+}
+.btn{
+    width: 135px;
+    height: 50px;
+    background-color: #018AD9;
+    color: #ffff;
+    border-radius: 5px;
+    border: 1px solid #018AD9;
+}
+.email{
+    margin-top: 40px;
+}
+.hr{
+    margin: 0px 70px;
+    color: #E4E7EC;
+    
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    justify-content:baseline;
+    text-align: left;
+}
+.li{
+    text-decoration: none;
+    color: #667185;
+    font-size: 16px;
+    line-height: 33px;
+}
+.ul{
+    list-style-type: none;
+    margin-right: 40px;
+}
+.h6{
+    margin-left: 40px;
+    color: #98A2B3;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.rights{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 80px;
+}
+.p{
+    color: #101928;
+}
+.atLast{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-top: 30px;
+    
+}
+.service{
+    text-decoration: none;
+    color: #000000;
+    margin-left: -40px;
+}
+.socialIcons {
+    margin-right: 10px;
+    margin-top: 10px;
+}

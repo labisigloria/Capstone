@@ -1,0 +1,84 @@
+.Login{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -30px;
+    
+   
+}
+.logo{
+    width: 380px;
+    height: 463px;
+   
+}
+form{
+     background-color:#ffff ;
+     width: 400px;
+     
+}
+.loginForm{
+     background-color: aliceblue;
+     justify-content: center;
+     padding: 35px;
+    
+}
+.h4{
+    font-size: 24px;
+    line-height: 18px;
+    text-align: center;
+}
+.p{
+    font-size: 16px;
+    line-height: 23px;
+    color: #667185;
+    text-align: center;
+}
+.label{
+    font-size: 14px;
+    font-weight: 500;
+    color: #101928;
+    padding-bottom: 5px;
+}
+.input{
+    width: 98%;
+    height: 35px;
+    border: 1px solid #D0D5DD;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+
+}
+.forgot{
+    margin-left: 20px;
+    font-size: 14px;
+    color: #101928;
+    text-decoration: none;
+
+}
+.span{
+    font-size: 14px;
+    margin: 10px 2px;
+    color: #101928;
+}
+.button{
+    justify-content: center;
+    width: 100%;
+    height: 35px;
+    background-color: #018AD9;
+    color: white;
+    margin-top: 20px;
+    border: 1px solid #018AD9;
+    border-radius: 3px;
+}
+.create{
+    text-align: center;
+    color: #667185;
+    padding-top: 10px;
+    font-size: 14px;
+}
+.account{
+    text-decoration: none;
+    font-size: 14px;
+    color: #0074FF;
+    
+}
