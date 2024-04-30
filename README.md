@@ -20,4 +20,4 @@ The website was developed using the following choice of technologies and program
 •	JAVASCRIPT
 ## IMPLEMENTATION:
 The website was deployed using VERCEL.
-Link to deployment Page: https://capstone-school-information-management-system-gy7ir2obq.vercel.app
+Link to deployment Page: https://capstone-school-information-management-system-s39k.vercel.app/
