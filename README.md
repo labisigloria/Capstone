@@ -1,8 +1,8 @@
 ### CAPSTONE PROJECT GROUP 51
 ## DEVELOPED BY:
-. Adekoya Olabisi
-. Oni Olanireti
-. Sule Oluwabunmi
+1.  Adekoya Olabisi
+2.  Oni Olanireti
+3.  Sule Oluwabunmi
 ## PROJECT TOPIC: SCHOOL MANAGEMENT INFORMATION SYSTEM
 ## PROJECT OVERVIEW: Building a school information management system that address the conflicts, overpopulation, receipt and 
 payment issues that arise on resumption days with respect to parents and guardians purchasing educational materials for their wards.
