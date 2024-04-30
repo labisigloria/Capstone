@@ -8,6 +8,7 @@ import Gallery from './components/Gallery.jsx';
 import Testimonials from './components/Testimonials.jsx'
 import Footer from './components/Footer.jsx';
 import Login from './components/Login.jsx';
+import Admission from './components/Admission.jsx';
 
 
 
@@ -18,6 +19,7 @@ const App = () => {
         <Routes> 
       <Route path='/' element={<Home /> } />
         <Route path='/Login' element={<Login />} />
+        <Route path='/Admission' element = {<Admission />} />
    
       </Routes>
        

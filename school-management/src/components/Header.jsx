@@ -14,7 +14,7 @@ function Header() {
                     <li><Link to="/" className={styles.a}>Home</Link></li>
                     <li><a className={styles.a} href="#">About Us</a></li>
                     <li><a className={styles.a} href="#">Events Calendar</a></li>
-                    <li><Link to="/admin.jsx" className={styles.a} >Admissions</Link></li>
+                    <li><Link to="/Admission.jsx" className={styles.a} >Admissions</Link></li>
                     <li><a className={styles.a} href="#">Blog</a></li>
                     <li><a className={styles.a} href="#">Contact Us</a></li>
                     <li><a className={styles.a} href="#">Resources</a></li>
